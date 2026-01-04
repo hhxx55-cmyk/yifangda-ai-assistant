@@ -1,0 +1,6 @@
+﻿rule_id,asset_class,rule_type,rule_description,threshold_amount,threshold_pct,priority,is_active,created_at
+RULE001,Bond,价格来源,债券使用收盘价估值,1000.0,0.01,1,True,2024-01-01
+RULE002,Equity,价格来源,股票使用实时价格估值,500.0,0.005,1,True,2024-01-01
+RULE003,Cash,汇率规则,现金使用当日中间价,100.0,0.001,2,True,2024-01-01
+RULE004,Bond,应计利息,债券应计利息使用ACT/360计算,200.0,0.02,2,True,2024-01-01
+RULE005,All,汇率规则,所有资产使用统一汇率时点,50.0,0.005,3,True,2024-01-01

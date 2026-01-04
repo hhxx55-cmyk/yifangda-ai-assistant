@@ -1,0 +1,91 @@
+{
+  "total_trades": 4267,
+  "total_accounts": 45,
+  "matched": "0",
+  "unmatched": "4267",
+  "match_rate": 0.0,
+  "by_type": {
+    "Bond": "149",
+    "Fund": "10",
+    "Future": "4",
+    "Forward": "1",
+    "FX": "0",
+    "Other": "4103"
+  },
+  "by_account": {
+    "HKCABKT": 1360,
+    "HKGBF": 328,
+    "RF_CEDF": 317,
+    "HKMSCI50": 304,
+    "CMSOFI": 193,
+    "HKGRBF": 191,
+    "HKSDBF": 162,
+    "HKHYBF": 154,
+    "RFMSCICA": 131,
+    "HKCFBCNA": 118,
+    "HKCFBCOM": 99,
+    "HKCACLR2": 97,
+    "HKCACLR1": 91,
+    "HKCANTUC": 84,
+    "HKCASINV": 82,
+    "HKCAKBAM": 60,
+    "HKHKDMMF": 52,
+    "HKMMF": 48,
+    "HKCABKSH": 46,
+    "UGQGF": 45,
+    "HKCACLR4": 41,
+    "HKUSDCF": 41,
+    "HKHKDCF": 38,
+    "HKGCLF": 29,
+    "HKCASMA": 21,
+    "HKGCUSBF": 18,
+    "HKNKY225": 18,
+    "HKHSIESG": 15,
+    "HKCACIB": 13,
+    "HKNDX100": 10,
+    "HKCAYX": 9,
+    "HKCASHBK": 7,
+    "HKCASAI3": 7,
+    "HKCAHXB": 7,
+    "HKCACL2B": 6,
+    "HKCASAI4": 5,
+    "HKCAYX2": 4,
+    "HKCAHGH": 3,
+    "HKSVBF": 3,
+    "RFUGHDSF": 2,
+    "CMSRF": 2,
+    "RFUGGWAF": 2,
+    "RFUGGCMF": 2,
+    "HKCACIB2": 1,
+    "HKCSILIQ": 1
+  },
+  "by_direction": {
+    "B": 3360,
+    "S": 879,
+    "H": 28
+  },
+  "by_currency": {
+    "USD": 1502,
+    "CNY": 1487,
+    "HKD": 1262,
+    "JPY": 12,
+    "CNH": 4
+  },
+  "by_sheet": {
+    "Fundcode": 2668,
+    "Fundcode_Repo": 1599
+  },
+  "flags": {
+    "Duplicated": "414",
+    "New Issue": "0",
+    "Open Repo": "26",
+    "Close Repo": "34"
+  },
+  "amount": {
+    "total": 30079286912.0,
+    "mean": 7064181.98966651,
+    "median": 102250.0,
+    "max": 1208190000.0,
+    "min": -549997000.0
+  }
+}
